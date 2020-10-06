@@ -5,7 +5,7 @@
 		<title>Pagina Inicial</title>
 	</head>
 	
-	<body>
+	<body bgcolor="pink">
 	<p>logo do site...........................<a href="estilos.php">ESTILOS</a>...........................<a href="intrumentos.php">INSTRUMENTOS</a>
 	................................<a href="eventos.php">EVENTOS</a>................................<a href="configuraçoes.php">FÓRUM</a>
 	.................................<a href="perfil.php">MEU PERFIL</a>...........................logo do site</p><br><br><br>
