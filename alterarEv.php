@@ -17,7 +17,7 @@
 		<h4>Confirme a senha do evento: <input type="password" name="senha2"></h4>
 		<input type="submit" value="PROXIMO">
 		</form>
-		</div> kkkkkkkkkkkk
+		</div> 
 		<br><br><br><p>informações do suporte</p>
 	</body>
 </html>
